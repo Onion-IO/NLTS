@@ -2,7 +2,7 @@
 
 <p align="center"><project-description></p>
 
-# Verbose Twitter Scraper
+# NLTS
 An exceedingly bare-bones twitter scraper designed for use in natural language models. 
 
 Notice: This project was developed in November of 2022.
